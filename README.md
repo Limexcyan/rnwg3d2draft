@@ -22,7 +22,7 @@ Pierwszy model służy do rozpoznawania klasy zdjęcia z pośród trzech możliw
 Klasyfikator został wytrenowany na podstawie zbioru danych znajdujących się na platformie kaggle. Kod źródłowy wraz z podpiętym zbiorem danych znajduje się na stronie [ResNet-18 for flat tire detection](https://www.kaggle.com/code/ukaszgorczyca/notebooka782d36f54).
 
 Drugi model został wytrenowany na zdjęciach mających bardzo ogólne etykiety: pojazd uszkodzony, pojazd bez uszkodzeń. 
-Kod źródłowy wraz z podpiętym zbiorem danych treningowych znajduje się na stronie [YOLOv8 for cars damage detection]([https://www.kaggle.com/code/ukaszgorczyca/notebooka782d36f54](https://www.kaggle.com/code/ukaszgorczyca/notebook1c851a9f24)).
+Kod źródłowy wraz z podpiętym zbiorem danych treningowych znajduje się na stronie [YOLOv8 for cars damage detection](https://www.kaggle.com/code/ukaszgorczyca/notebook1c851a9f24)).
 
 ### Autor
 Łukasz Gorczyca
