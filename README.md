@@ -16,7 +16,7 @@ inspekcja pojazdów
 
 Wytrenowany model do rozpoznawania braku ciśnienia w oponach
 
-(kaggle notebook)[https://www.kaggle.com/code/ukaszgorczyca/notebooka782d36f54]
+[kaggle notebook](https://www.kaggle.com/code/ukaszgorczyca/notebooka782d36f54)
 
 
 ### Autor
