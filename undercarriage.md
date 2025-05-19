@@ -1,6 +1,10 @@
 # Inspekcja podwozia
 
+
+![podwozie](images/undercarriage/under_demo.png)
+
 Jest na najtrudniej dostępna część podczas pełnej inspekcji pojazdu.
+
 
 ### Wyciek oleju
 
