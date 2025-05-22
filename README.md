@@ -61,7 +61,7 @@ W folderze `training`, klasa `00-damage` zawiera 920 obrazów uszkodzonych pojaz
 
 ### Kod
 
-Kod źródłowy modelu znajduje się na stronie [YOLOv8 for cars damage detection](https://www.kaggle.com/code/ukaszgorczyca/notebook1c851a9f24)).
+Kod źródłowy modelu znajduje się na stronie [YOLOv8 for cars damage detection](https://www.kaggle.com/code/ukaszgorczyca/notebook1c851a9f24).
 
 ## Podsumowanie i możliwe rozszerzenia.
 
