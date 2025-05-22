@@ -93,11 +93,5 @@ Taki kierunek rozwoju wymagałby również implementacji bardzo dokładnego algo
 7. [Artykuł o implementacji zamiany układu zmiennych obrazu](https://medium.com/@sharadsiddanagoudar/converting-cartesian-image-to-polar-image-ab8522b72b50)
 8. [Blog o metodach wykrywania uszkodzeń, część I](https://inspektlabs.com/blog/car-damage-detection-using-ai-methodology-and-approach-for-high-accuracy/)
 9. [Blog o metodach wykrywania uszkodzeń, część II](https://inspektlabs.com/blog/ai-car-damage-detection-how-it-works-part-2/)
-
-
-
-
-
-
-
-
+10. [Wykrywanie uszkodzeń karoserii przy pomocy modelu YOLO](https://www.researchgate.net/publication/370536558_Detects_Damage_Car_Body_using_YOLO_Deep_Learning_Algorithm)
+11. Zbiory prywatne
