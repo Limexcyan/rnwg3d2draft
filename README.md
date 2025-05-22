@@ -63,5 +63,18 @@ W folderze `training`, klasa `00-damage` zawiera 920 obrazów uszkodzonych pojaz
 
 Kod źródłowy modelu znajduje się na stronie [YOLOv8 for cars damage detection](https://www.kaggle.com/code/ukaszgorczyca/notebook1c851a9f24)).
 
+## Podsumowanie i możliwe rozszerzenia.
+
+Projekt pozwolił na zaznajomienie się z szerokim zagadnieniem autonomicznej inspekcji pojazdów w celu wykrywania ich uszkodzeń. 
+Omówione przeształcenia geometryczne pojazdów stanowiły część preprocesingu danych z inspekcji, natomiast przedstawione modele skupiały się na rozwiązywaniu szczególnych problemów związanych z oponami i z generalnym stanem pojazdów.
+
+Tematyka pozostawia duże pole do rozszerzenia architektury modeli. 
+Spojrzenie na jeden problem inspekcji pojazdów jak na wiele problemów wykrywania poszczególnych typów uszkodzeń każe się zastanowić, czy nie warto rozważać tego typu zagadnień metodami continual learningowymi.
+Stworzenie modelu uczącego się po kolei jak roznawać różne typy uszkodzeń, a przy tym nie zapominającego jak rozwiązywać poprzednie problemy, stanowi duże wyzwanie. 
+Warto jednak jest mu się przyjrzeć, zwłaszacza ze względu na rozwijane obecnie metody continual learningowe wykorzystujące hypersieci między innymi do radzenia sobie z katastroficznym zapominaniem.
+
+Uwagę zwraca również fakt, że do dogłębniejszej analizy problemu konieczne jest uzyskanie wysokiej jakości danych zawierających duże zbiory zdjęć z inspekcji pojazdów. 
+Podczas przygotowania projektu doskwierał jednak brak odpowiednio skrojonych do zadania danych i bardzo możliwe, że w momencie jego tworzenia takie dane są tylko i wyłącznie posiadane przez prywatne firmy.
+
 ### Autor
 Łukasz Gorczyca
