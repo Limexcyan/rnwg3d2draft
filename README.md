@@ -76,5 +76,28 @@ Warto jednak jest mu się przyjrzeć, zwłaszacza ze względu na rozwijane obecn
 Uwagę zwraca również fakt, że do dogłębniejszej analizy problemu konieczne jest uzyskanie wysokiej jakości danych zawierających duże zbiory zdjęć z inspekcji pojazdów. 
 Podczas przygotowania projektu doskwierał jednak brak odpowiednio skrojonych do zadania danych i bardzo możliwe, że w momencie jego tworzenia takie dane są tylko i wyłącznie posiadane przez prywatne firmy.
 
+Przy próbie stworzenia narzędzi do pełnej, regularnej inspekcji pojazdów warstwa techniczna mogłaby zostać rozszerzona o bazę danych z historią inspekcji wraz z interfejsem graficznym umożliwiającym ich podgląd oraz powrót do starszych przeglądów.
+Taki kierunek rozwoju wymagałby również implementacji bardzo dokładnego algorytmu OCR do odczytywania numerów rejestracyjnych pojazdów, aby w bazie nie miały miejsca pomyłki dotyczące stanu techniczego konkretnych pojazdów z powodu odczytania złego numeru.
+
 ### Autor
 Łukasz Gorczyca
+
+## Źródła
+
+1. [Przewodnik po modelu YOLOv8](https://medium.com/data-science/the-comprehensive-guide-to-training-and-running-yolov8-models-on-custom-datasets-22946da259c3)
+2. [Repozytorium projektu ultralytics](https://github.com/ultralytics/ultralytics)
+3. [Rozwiązania biznesowe inspekcji pojazdów](https://www.uveye.com/)
+4. [Wykrywanie uszkodzeń przy pomocy modelu Mask-RCNN - repozytorium projektu](https://github.com/basel-ay/Automated-Car-Damage-Detection)
+5. [Dokumentacja biblioteki cv2](https://huningxin.github.io/opencv_docs/da/d54/group__imgproc__transform.html)
+6. [Poradnik obsługi biblioteki cv2](https://theailearner.com/image-processing/)
+7. [Artykuł o implementacji zamiany układu zmiennych obrazu](https://medium.com/@sharadsiddanagoudar/converting-cartesian-image-to-polar-image-ab8522b72b50)
+8. [Blog o metodach wykrywania uszkodzeń, część I](https://inspektlabs.com/blog/car-damage-detection-using-ai-methodology-and-approach-for-high-accuracy/)
+9. [Blog o metodach wykrywania uszkodzeń, część II](https://inspektlabs.com/blog/ai-car-damage-detection-how-it-works-part-2/)
+
+
+
+
+
+
+
+
